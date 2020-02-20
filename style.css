@@ -1,0 +1,35 @@
+
+
+.footer-container {
+	background-color: #809c78;
+}
+.btn-primary {
+	background-color: #809c78;
+	border-color: #809c78;
+}
+.btn-primary {
+	background-color: #809c78;
+	border-color: #809c78;
+}
+.btn-primary:hover {
+	background-color: #000000;
+	border-color: #000000;
+}
+
+h2:after {
+	background-color: #809c78;
+}
+.btn-default {
+	border-color: #809c78;
+
+}
+.btn-default:hover {
+	border-color: #809c78;
+	background-color: #809c78;
+}
+.navbar-inverse .navbar-btn:hover{
+	border-color: #809c78;
+}
+.btn-newsletter:hover{
+	background-color: #000000;
+}
